@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "database-operations-sqlite",
+      "title": "Database Operations with SQLite",
+      "description": "Learn to perform CRUD operations and manage data persistence using SQLite databases in Python",
+      "path": "assignments/database-operations-sqlite",
+      "dueDate": "2026-05-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
